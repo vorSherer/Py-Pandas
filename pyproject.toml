@@ -1,14 +1,12 @@
 [tool.poetry]
 name = "12-pandas-data-analysis"
 version = "0.1.0"
-description = "Data analysis intro using Pandas"
+description = ""
 authors = ["vorSherer <tcpma2011@gmail.com>"]
-license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-numpy = "^1.19.0"
-pandas = "^0.0.1"
+pandas = "^1.0.5"
 jupyterlab = "^2.1.5"
 
 [tool.poetry.dev-dependencies]
